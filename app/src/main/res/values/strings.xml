@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Apps</string>
+    <string name="login_area">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="belum_punya_akun">Belum Punya Akun?</string>
+    <string name="daftar">Daftar</string>
+    <string name="register_area">Register</string>
+    <string name="register">REGISTER</string>
+    <string name="fullname">Nama Lengkap</string>
+    <string name="nim">NIM</string>
+    <string name="kelas">Kelas</string>
+    <string name="sudah_punya_akun">Sudah Punya Akun?</string>
+    <string name="login_accouint">Login</string>
+    <string name="personal_area">Info Data Diri</string>
+    <string name="fullname_personal">Nama Lengkap</string>
+    <string name="username_personal">Username</string>
+    <string name="nim_personal">NIM</string>
+    <string name="kelas_personal">Kelas</string>
+    <string name="logout">LOGOUT</string>
+</resources>
